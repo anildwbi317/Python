@@ -1,0 +1,18 @@
+1. Re-assign hello to bye
+list = [1,2,[3,4,'hello']]
+
+2.  sorting
+list = [5,3,4,6,1]
+
+3. #Grab "PickMe"
+d = {'k1':{'k2':'PickMe'}}
+   
+
+4. #Grab "Print Me" 
+d = {'k1':[{'nest_key':['this is deep',['PrintMe']]}]}
+
+
+5. #print as  -  "The Count of Count My Words:14"
+
+d = {'k1':[1,2,{'k2':['this is tricky',{'tough':[1,2,['hello']]}]}]}
+
